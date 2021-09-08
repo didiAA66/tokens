@@ -1,0 +1,12 @@
+
+{
+ "name": "Vinci",
+ "website": "http://vinciswap.xyz/#/swap",
+ "description": "Vinciswap is a decentralized exchange (DEX) on binance smart Chain BSC.",
+ "explorer": "https://bscscan.com/token/0x04e85570ed2448ad28103a08db91c0ba84379c1e",
+ "type": "BEP20",
+ "symbol": "Vinci",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04e85570ed2448ad28103a08db91c0ba84379c1e"
+}
